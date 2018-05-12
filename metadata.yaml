@@ -1,0 +1,32 @@
+_repo: Friends_42641
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42641-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Gibson, Wilfrid Wilson
+    alias: Gibson, W. W. (Wilfrid Wilson)
+    birthdate: 1878
+    deathdate: 1962
+    gutenberg_agent_id: '8220'
+    url: http://www.gutenberg.org/2009/agents/8220
+    wikipedia: http://en.wikipedia.org/wiki/Wilfrid_Wilson_Gibson
+description: Title; Contents; Rupert Brooke; William Denis Browne; Tenants; Sea-Change;
+  Gold; The Old Bed; Trees; Oblivion; Retreat; Colour; Night; The Orphans; The Pessimist;
+  ?; The Sweet-Tooth; Girl's Song; The Ice Cart; To E. M.; Marriage; Roses; For G.;
+  Home
+gutenberg_issued: '2013-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42641'
+  lccn: '45043553'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry'
+title: Friends
+url: http://www.gutenberg.org/ebooks/42641
